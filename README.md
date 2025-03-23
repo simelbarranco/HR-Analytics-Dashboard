@@ -5,6 +5,8 @@ This project leverages Power Query and Power BI to analyze real-world HR data, d
 
 The goal of this project is to create a comprehensive HR analytics dashboard that answers key questions regarding employee demographics, job roles, salaries, and overall workforce trends. This dashboard provides decision-makers with an intuitive and insightful tool for understanding various HR metrics.
 
+![Dashboard](./assets/preview.png)
+
 ## Key Questions Addressed
 
 1. **How many people are in each job?** Understand the distribution of employees across different job roles.
